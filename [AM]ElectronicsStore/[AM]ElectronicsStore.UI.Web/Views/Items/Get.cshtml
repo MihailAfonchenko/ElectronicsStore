@@ -1,0 +1,16 @@
+﻿@using _AM_ElectronicsStore.UI.Web.Tools
+@model _AM_ElectronicsStore.Entities.Item
+@{
+    ViewBag.Title = "Товар" + Model.Name;
+}
+
+@if (!String.IsNullOrEmpty(Model.ImagePath))
+{
+    <img src="@FileProcess.GetPath(Model.ImagePath)" />
+}
+<h4>Название: @Model.Name</h4>
+<h6>Описание: @Model.Description</h6>
+<h6>Категория: @Model.Category.Name</h6>
+<h6>Цена: @Model.Price</h6>
+<h6>Количество на складе: @Model.Count</h6>
+

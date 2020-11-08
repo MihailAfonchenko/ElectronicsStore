@@ -1,0 +1,53 @@
+﻿@using _AM_ElectronicsStore.UI.Web.Tools
+@model IEnumerable<_AM_ElectronicsStore.Entities.Item>
+
+@{
+    ViewBag.Title = "Список товаров";
+}
+
+<div class="hero-unit">
+    <fieldset class="form-edit">
+        <legend>@ViewBag.Title</legend>
+        @using (Html.BeginForm("index", "items", FormMethod.Post, new { @class = "form-horizontal search" }))
+        {
+            <div class="control-group">
+                <label class="control-label">Название:</label>
+                @Html.TextBox("itemName", "", new { @class = "form-control" })
+            </div>
+            <div class="control-group">
+                <label class="control-label">Выберите категорию:</label>
+                @Html.DropDownList("categoryId", ViewBag.Categories as IEnumerable<SelectListItem>, new { @class = "form-control" })
+            </div>
+            <div class="controls">
+                <input type="submit" value="Искать" class="btn btn-primary" />
+            </div>
+        }
+    </fieldset>
+</div>
+
+@foreach (var item in Model)
+{
+    <div class="col-sm-4 item">
+        <a href="/items/get/@item.Id" />
+        <div class="inner">
+            @if (!String.IsNullOrEmpty(item.ImagePath))
+            {
+                <div>
+                    <img src="@FileProcess.GetPath(item.ImagePath)" />
+                </div>
+            }
+            @item.Name
+            <br /> @item.Price
+            @if (User.Identity.IsAuthenticated && (User.IsInRole("Admin")))
+            {
+                <div class="actions">
+                    <a href="/items/delete/@item.Id">Удалить</a>
+                </div>
+            }
+        </div>
+    </div>
+}
+
+
+
+

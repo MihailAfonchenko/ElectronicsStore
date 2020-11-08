@@ -1,0 +1,6 @@
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.Entities\bin\Debug\[AM]ElectronicsStore.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.Entities\bin\Debug\[AM]ElectronicsStore.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.Entities\obj\Debug\[AM]ElectronicsStore.Entities.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.Entities\obj\Debug\[AM]ElectronicsStore.Entities.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.Entities\obj\Debug\[AM]ElectronicsStore.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.Entities\obj\Debug\[AM]ElectronicsStore.Entities.pdb

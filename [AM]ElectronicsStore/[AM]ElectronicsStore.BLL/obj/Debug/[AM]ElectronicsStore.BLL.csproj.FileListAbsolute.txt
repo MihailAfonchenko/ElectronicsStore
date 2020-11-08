@@ -1,0 +1,11 @@
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\bin\Debug\[AM]ElectronicsStore.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\bin\Debug\[AM]ElectronicsStore.BLL.pdb
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\bin\Debug\[AM]ElectronicsStore.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\bin\Debug\[AM]ElectronicsStore.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\bin\Debug\[AM]ElectronicsStore.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\bin\Debug\[AM]ElectronicsStore.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\obj\Debug\[AM]ElectronicsStore.BLL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\obj\Debug\[AM]ElectronicsStore.BLL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\obj\Debug\[AM]ElectronicsStore.BLL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\obj\Debug\[AM]ElectronicsStore.BLL.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.BLL\obj\Debug\[AM]ElectronicsStore.BLL.pdb

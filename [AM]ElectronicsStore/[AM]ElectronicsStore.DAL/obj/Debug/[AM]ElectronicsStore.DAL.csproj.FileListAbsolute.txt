@@ -1,0 +1,9 @@
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\bin\Debug\[AM]ElectronicsStore.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\bin\Debug\[AM]ElectronicsStore.DAL.pdb
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\bin\Debug\[AM]ElectronicsStore.Entities.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\bin\Debug\[AM]ElectronicsStore.Entities.pdb
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\obj\Debug\[AM]ElectronicsStore.DAL.csprojAssemblyReference.cache
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\obj\Debug\[AM]ElectronicsStore.DAL.csproj.CoreCompileInputs.cache
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\obj\Debug\[AM]ElectronicsStore.DAL.csproj.CopyComplete
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\obj\Debug\[AM]ElectronicsStore.DAL.dll
+C:\Users\m.afonchenko\Вспомнить все\Программирование\ElectronicsStore\[AM]ElectronicsStore\[AM]ElectronicsStore.DAL\obj\Debug\[AM]ElectronicsStore.DAL.pdb
